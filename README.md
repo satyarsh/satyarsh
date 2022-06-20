@@ -1,6 +1,6 @@
 - Hi, I’m @stking68 aka Chaos Bringer.
-- I’m interested in GNU/Linux , Java , Back-end development , Vst Audio development.
-- I’m currently learning all of above.
+- I’m interested in GNU/Linux , Java , Back-end development , GUI Tools and Qt ,Vst Audio development.
+- I’m currently learning most of the above.
 - How to reach me, trancesomix@hotmail.com
 
 <!---
