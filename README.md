@@ -1,5 +1,5 @@
 - Hi, I’m Sat.
-- I’m interested in Linux, Backend development, GUI Tools and Qt.
+- I’m interested in Linux, Backend development And GUI Tools.
 - I’m currently learning most of the above.
 <!-- - How to reach me, trancesomix@hotmail.com
 
