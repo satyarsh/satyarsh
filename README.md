@@ -3,11 +3,11 @@
 - I’m currently learning most of the above.
 - How to reach me, trancesomix@hotmail.com / https://t.me/chaotic_good0
 
-<div>
+<div align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=stking68&show_icons=true&theme=tokyonight"/>
 </div>
 
-<div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stking68&layout=donut&theme=tokyonight" />
 </div>
 
