@@ -1,6 +1,5 @@
 - Hi, I’m Sat.
 - I’m interested in Gnu/Linux, Backend development And GUI Tools.
-- I’m currently learning most of the above.
 - How to reach me, trancesomix@hotmail.com // https://t.me/chaotic_good0
 
 <div align="center">
