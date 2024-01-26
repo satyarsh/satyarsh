@@ -5,7 +5,7 @@
 - How to reach me, trancesomix@hotmail.com // https://t.me/chaotic_good0
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stking68&layout=donut&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyarsh&layout=donut&theme=tokyonight" />
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
