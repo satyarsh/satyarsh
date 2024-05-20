@@ -13,5 +13,6 @@
 
 <p align="center"> 
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Linux" width="40" height="40"/> </a>
+<a href="https://www.linuxmint.com/download_lmde.php" target="_blank" rel="noreferrer"> <img src="https://www.linuxmint.com/web/img/logo.svg" alt="LMDE" width="40" height="40"/> </a>
 <a href="https://endeavouros.com/" target="_blank" rel="noreferrer"> <img src="https://endeavouros.com/wp-content/uploads/2019/08/EndeavourOS-logo.png" alt="EndeavourOS Linux" width="auto" height="40"/> </a>
 </p>
