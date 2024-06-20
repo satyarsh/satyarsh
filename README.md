@@ -1,5 +1,5 @@
 - Hi, I’m Satyar.
-- I’m interested in Gnu/Linux, Backend development with Java And GUI Tools.
+- I’m interested in Gnu/Linux, Backend development And GUI Tools.
 - i tend to make applications to solve my personal everyday problems and automate small things on my system [Like This](https://github.com/satyarsh/YTSearcher "YTSearcher").
 - Currently Learning PHP And The Laravel Framework :)
 - How to reach me, trancesomix@hotmail.com // https://t.me/chaotic_good0
