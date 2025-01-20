@@ -1,7 +1,7 @@
 - Hi, I’m Satyar.
 - I’m interested in Gnu/Linux, Backend development And DevOps.
 - i tend to make applications to solve my personal everyday problems and automate small things on my system [Like This](https://github.com/satyarsh/YTSearcher "YTSearcher").
-- How to reach me, trancesomix@hotmail.com // https://t.me/chaotic_good0
+- How to reach me, trancesomix@hotmail.com || https://t.me/chaotic_good0
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyarsh&layout=donut&theme=tokyonight" />
