@@ -1,7 +1,6 @@
 - Hi, I’m Satyar.
 - I’m interested in Gnu/Linux, Backend development And GUI Tools.
 - i tend to make applications to solve my personal everyday problems and automate small things on my system [Like This](https://github.com/satyarsh/YTSearcher "YTSearcher").
-- Currently learning about DevOps technologies :)
 - How to reach me, trancesomix@hotmail.com // https://t.me/chaotic_good0
 
 <div align="center">
@@ -13,5 +12,5 @@
 
 <p align="center"> 
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Linux" width="40" height="40"/> </a>
-<a href="https://endeavouros.com/" target="_blank" rel="noreferrer"> <img src="https://endeavouros.com/wp-content/uploads/2019/08/EndeavourOS-logo.png" alt="EndeavourOS Linux" width="auto" height="40"/> </a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://archlinux.org/static/logos/apple-touch-icon-57x57.0cd0ab3349e2.png" alt="Arch Linux" width="auto" height="40"/> </a>
 </p>
