@@ -13,5 +13,5 @@
 <h3 align="center">Main OS's:</h3>
 <p align="center"> 
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Linux" width="40" height="40"/> </a>
-<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://www.pinclipart.com/picdir/middle/344-3444076_arch-linux-logo-png-clipart.png" alt="Arch Linux" width="auto" height="40"/> </a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://archlinux.org/static/logos/apple-touch-icon-72x72.e502bac6368f.png" alt="Arch Linux" width="auto" height="40"/> </a>
 </p>
