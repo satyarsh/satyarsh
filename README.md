@@ -13,16 +13,16 @@
 <h3 align="center">Front-End Technologies:</h3>
 <p align="center"> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://laravel.com/docs/11.x/blade#introduction" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel Blade" width="40" height="40"/> </a> <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40"/> </a> </p>
 
-<h3 align="center">Main OS's:</h3>
-<p align="center"> 
-<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Linux" width="40" height="40"/> </a>
-<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="auto" height="40"/> </a>
-</p>
-
 <h3 align="center">Server and DevOps Tools:</h3>
 <p align="center"> 
 <a href="https://ubuntu.com/download/server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu Server" width="40" height="40"/> </a>
 <a href="https://alpinelinux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/New_Logo_Alpine_Linux.svg" alt="Alpine Linux" width="auto" height="40"/> </a>
 <a href="https://www.proxmox.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Arcticons-white_proxmox_virtual_environment.svg" alt="Proxmox" width="auto" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="Docker" width="auto" height="40"/> </a>
+</p>
+
+<h3 align="center">Main OS's:</h3>
+<p align="center"> 
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Linux" width="40" height="40"/> </a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="auto" height="40"/> </a>
 </p>
