@@ -17,9 +17,11 @@
 <p align="center"> 
 <a href="https://ubuntu.com/download/server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu Server" width="40" height="40"/> </a>
 <a href="https://alpinelinux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/New_Logo_Alpine_Linux.svg" alt="Alpine Linux" width="auto" height="40"/> </a>
-<a href="https://www.proxmox.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/proxmox/.github/main/Proxmox-logo-800-white.svg" alt="Proxmox" width="auto" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="Docker" width="auto" height="40"/> </a>
+</p>
+<p align="center">
+  <a href="https://www.proxmox.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/proxmox/.github/main/Proxmox-logo-800-white.svg" alt="Proxmox" width="auto" height="40"/> </a>
 </p>
 
 <h3 align="center">Main OS's:</h3>
