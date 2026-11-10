@@ -1,6 +1,6 @@
-- Hi, I’m Satyar.
-- I’m interested in Gnu/Linux, Backend development And DevOps.
-- i tend to make applications to solve my personal everyday problems and automate small things on my system [Like This](https://github.com/satyarsh/YTSearcher "YTSearcher").
+- Hi, I’m Satyar
+- Currently working as a DevOps Engineer
+- I’m interested in Gnu/Linux, Backend development And DevOps. 
 - How to reach me, satyar010220@gmail.com
 
 <div align="center">
