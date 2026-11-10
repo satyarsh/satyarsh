@@ -1,6 +1,6 @@
 - Hi, I’m Satyar
 - Currently working as a DevOps Engineer
-- I’m interested in Gnu/Linux, Backend development And DevOps. 
+- I’m interested in Gnu/Linux, Backend development And DevOps
 - How to reach me, satyar010220@gmail.com
 
 <div align="center">
